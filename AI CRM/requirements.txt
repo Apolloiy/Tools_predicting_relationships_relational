@@ -1,0 +1,15 @@
+langchain==0.3.13
+langchain-community==0.3.13
+openai>=1.0
+chromadb
+faiss-cpu
+langgraph==0.2.62
+langchainhub==0.1.21
+tavily-python
+bs4
+langchain-openai
+sentence-transformers
+transformers
+torch
+pymupdf
+docx2txt
